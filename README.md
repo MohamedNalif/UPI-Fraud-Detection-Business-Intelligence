@@ -6,11 +6,11 @@
 
 ![Transactions Dashboard] ([dashboards/screenshot.png](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Transaction%20Dashboard.png))
 
-![User Dashboard]([dashboards/screenshot.png](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-User%20Dashboard.png))
+![User Dashboard] ([dashboards/screenshot.png](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-User%20Dashboard.png))
 
-![Merchants Dashboard]([dashboards/screenshot.png](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Merchants%20Dashboard.png))
+![Merchants Dashboard] ([dashboards/screenshot.png](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Merchants%20Dashboard.png))
 
-![Fraud Detection Dashboard]([dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Fraud%20Analysis%20Dashboard.png)
+![Fraud Detection Dashboard] ([dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Fraud%20Analysis%20Dashboard.png)
 
 ![AmazonPay-Report Dashboard][(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Amazon%20Pay%20Report.png)
 
