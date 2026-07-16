@@ -2,20 +2,34 @@
 
 **Comprehensive analysis of 20,000 UPI transactions with fraud detection, customer behavior insights, and merchant risk profiling.**
 
-![Home Page Dashboard](UPI Analysis - HomePage.png) 
+![Home Page Dashboard](UPI Analysis - HomePage.png)
+
 ![Transactions Dashboard](dashboards/screenshot.png)
+
 ![User Dashboard](dashboards/screenshot.png)
+
 ![Merchants Dashboard](dashboards/screenshot.png)
+
 ![Fraud Detection Dashboard](dashboards/screenshot.png)
+
 ![AmazonPay-Report Dashboard](dashboards/screenshot.png)
+
 ![G-Pay-Report Dashboard](dashboards/screenshot.png)
+
 ![BHIM Report Dashboard](dashboards/screenshot.png)
+
 ![Paytm-Report Dashboard](dashboards/screenshot.png)
+
 ![Phonepe-Report Dashboard](dashboards/screenshot.png)
+
 ![WhatsApp Pay-Report Dashboard](dashboards/screenshot.png)
+
 ![Enterprise Merchants -Report Dashboard](dashboards/screenshot.png)
+
 ![Medium Merchnats -Report Dashboard](dashboards/screenshot.png)
-![Small Merchants-Report Dashboard](dashboards/screenshot.png)<!-- Add screenshot later -->
+
+![Small Merchants-Report Dashboard](dashboards/screenshot.png)
+<!-- Add screenshot later -->
 
 ## 🎯 Project Objective
 To analyze UPI transaction patterns, identify fraud indicators, and deliver actionable business intelligence for risk management and growth strategy.
