@@ -4,31 +4,31 @@
 
 **Home Page Dashboard** ([UPI Analysis - HomePage.png](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI%20Analysis%20-%20HomePage.png))
 
-![Transactions Dashboard] ([dashboards/screenshot.png](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Transaction%20Dashboard.png))
+**Transactions Dashboard** ([dashboards/screenshot.png](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Transaction%20Dashboard.png))
 
-![User Dashboard] ([dashboards/screenshot.png](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-User%20Dashboard.png))
+**User Dashboard** ([dashboards/screenshot.png](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-User%20Dashboard.png))
 
-![Merchants Dashboard] ([dashboards/screenshot.png](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Merchants%20Dashboard.png))
+**Merchants Dashboard** ([dashboards/screenshot.png](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Merchants%20Dashboard.png))
 
-![Fraud Detection Dashboard] ([dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Fraud%20Analysis%20Dashboard.png)
+**Fraud Detection Dashboard** ([dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Fraud%20Analysis%20Dashboard.png)
 
-![AmazonPay-Report Dashboard][(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Amazon%20Pay%20Report.png)
+**AmazonPay-Report Dashboard** [(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Amazon%20Pay%20Report.png)
 
-![G-Pay-Report Dashboard][(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-G%20Pay%20Report.png)
+**G-Pay-Report Dashboard** [(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-G%20Pay%20Report.png)
 
-![BHIM Report Dashboard][(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-BHIM%20Reports.png)
+**BHIM Report Dashboard** [(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-BHIM%20Reports.png)
 
-![Paytm-Report Dashboard][(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Paytm%20Report.png)
+**Paytm-Report Dashboard** [(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Paytm%20Report.png)
 
-![Phonepe-Report Dashboard][(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Phonepe%20Report.png)
+**Phonepe-Report Dashboard** [(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Phonepe%20Report.png)
 
-![WhatsApp Pay-Report Dashboard][(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-WhatsApp%20Pay%20Reports.png)
+**WhatsApp Pay-Report Dashboard** [(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-WhatsApp%20Pay%20Reports.png)
 
-![Enterprise Merchants -Report Dashboard][(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Enterprise%20Merchant%20Report.png)
+**Enterprise Merchants -Report Dashboard** [(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Enterprise%20Merchant%20Report.png)
 
-![Medium Merchnats -Report Dashboard][(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Small%20Merchant%20Report.png)
+**Medium Merchnats -Report Dashboard** [(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Small%20Merchant%20Report.png)
 
-![Small Merchants-Report Dashboard][(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Medium%20Merchant%20Report.png)
+**Small Merchants-Report Dashboard** [(dashboards/screenshot.png)](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Medium%20Merchant%20Report.png)
 <!-- Add screenshot later -->
 
 ## 🎯 Project Objective
