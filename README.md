@@ -2,7 +2,7 @@
 
 **Comprehensive analysis of 20,000 UPI transactions with fraud detection, customer behavior insights, and merchant risk profiling.**
 
-![Home Page Dashboard] ([UPI Analysis - HomePage.png](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI%20Analysis%20-%20HomePage.png))
+** Home Page Dashboard** ([UPI Analysis - HomePage.png](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI%20Analysis%20-%20HomePage.png))
 
 ![Transactions Dashboard] ([dashboards/screenshot.png](https://github.com/MohamedNalif/UPI-Fraud-Detection-Business-Intelligence/blob/main/UPI-Transaction%20Dashboard.png))
 
